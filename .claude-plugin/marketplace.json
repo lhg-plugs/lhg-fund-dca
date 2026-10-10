@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"基金定投计划工具：目标测算→计划表→品种筛选框架→纪律执行与复盘（非投资建议）","name":"lhg-fund-dca","source":"./"}]}
