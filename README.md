@@ -164,7 +164,7 @@ lhg-fund-dca/
 本插件由真人出镜 IP「刘洪光」（安徽合肥）出品，归属 [lhg-skills](https://github.com/lhg-skills)。
 
 - GitHub 主页：https://github.com/lhg-skills —— 全部 skill 开源在此，欢迎 star
-- 视频号：搜「刘洪光实名上网」
+- 抖音：搜「刘老师讲AI实战」
 - 微信：lhgsmsw
 
 > **合规声明（文末重申）**：本插件是个人财务规划工具，输出**非投资建议，不构成投顾服务**；历史业绩不代表未来表现；投资有风险，决策需谨慎。
